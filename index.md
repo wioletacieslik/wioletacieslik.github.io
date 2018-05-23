@@ -2,7 +2,7 @@
 
 Odnośnik do repozytorium GitHub znajdziesz [tutaj](https://github.com/wioletacieslik/Zadanie1)
 
-Moje konto GitHub znajduję się pod [adresem] (https://github.com/wioletacieslik)
+Moje konto GitHub znajduję się pod [adresem](https://github.com/wioletacieslik)
 
 
 **Opis projektu**
