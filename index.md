@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Witam na stronie poświęconej zadaniu 1
 
-You can use the [editor on GitHub](https://github.com/wioletacieslik/wioletacieslik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tutaj znajdziesz odnośnik do repozytorium GitHub https://github.com/wioletacieslik/Zadanie1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Moje konto GitHub znajduję się pod adresem: https://github.com/wioletacieslik
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Opis projektu**
 
-```markdown
-Syntax highlighted code block
+_Celem pierwszej części zadania było:_
 
-# Header 1
-## Header 2
-### Header 3
+-Założenie konta na github
+-Stworzenie repozytorium "Zadanie1" 
+-Wypełnienie tego repozytorium plikami które prowadzą do uzyskania widoku na stronie google.com
 
-- Bulleted
-- List
+_Celem drugiej części zadania było:_
 
-1. Numbered
-2. List
+-Utworzenie strony internetowej jak najbardziej zbliżonej wyglądem do strony głównej google.com przedstawionej na screenshocie: Google.png
+Strona ta ma być funkcjonalna (nie może to być po prostu umieszczony screenshot)
 
-**Bold** and _Italic_ and `Code` text
+_Celem trzeciej części zadania było:_
 
-[Link](url) and ![Image](src)
-```
+-Dowiązanie do repozytorium tzw. "github pages": https://guides.github.com/features/pages/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wioletacieslik/wioletacieslik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
