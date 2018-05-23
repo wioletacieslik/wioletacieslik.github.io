@@ -10,7 +10,9 @@ Moje konto GitHub znajduję się pod adresem: https://github.com/wioletacieslik
 _Celem pierwszej części zadania było:_
 
 -Założenie konta na github
+
 -Stworzenie repozytorium "Zadanie1" 
+
 -Wypełnienie tego repozytorium plikami które prowadzą do uzyskania widoku na stronie google.com
 
 _Celem drugiej części zadania było:_
