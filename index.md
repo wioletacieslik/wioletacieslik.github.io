@@ -1,10 +1,9 @@
 ## Witam na stronie poświęconej zadaniu 1
 
-Tutaj znajdziesz odnośnik do repozytorium GitHub https://github.com/wioletacieslik/Zadanie1
-(https://github.com/wioletacieslik/wioletacieslik.github.io/edit/master/index.md)
+Tutaj znajdziesz odnośnik do repozytorium GitHub [https://github.com/wioletacieslik/Zadanie1]
 
-Moje konto GitHub znajduję się pod adresem: https://github.com/wioletacieslik
-(https://github.com/wioletacieslik/wioletacieslik.github.io/edit/master/index.md)
+Moje konto GitHub znajduję się pod adresem: [https://github.com/wioletacieslik]
+
 
 **Opis projektu**
 
